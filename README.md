@@ -2,7 +2,6 @@
 # ![Gradify Logo](https://github.com/khaouitiabdelhakim/Gradify-Nuxt.js/blob/master/assets/logo.png)  <!-- Update the URL with your actual logo path -->
 
 # Gradify: Gradient and Simplify
-
 Your Color Palette, Simplified.
 
 Gradify is a web application that makes exploring and copying beautiful gradients a breeze. Discover colors and bring inspiration to your projects with ease.
