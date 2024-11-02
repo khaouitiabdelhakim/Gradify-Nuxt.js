@@ -47,6 +47,7 @@
     flex-direction: column;
     align-items: center;
     margin: 10px;
+    margin-bottom: 30px;
   }
   
   .gradient-card {
